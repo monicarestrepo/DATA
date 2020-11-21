@@ -1,0 +1,11 @@
+ID,	Dia,	Mes,	Ano,	Depto,	Municipio,	Implicado,	Victimas,	Fuente
+1,	10,	1,	1981,	Santander,	Cimitarra	FARC	4	EL TIEMPO
+2,	16,	1,	1981,	Meta,	Mesetas,	FARC,	4,	EL TIEMPO
+3,	8,	3,	1981,	Norte de Santander,	La Playa,	FP,	4,	NUNCA MAS
+4,	9,	3,	1981,	Norte de Santander,	La Playa,	FP,	7,	NUNCA MAS
+5,	27,	3,	1981,	Caqueta,	El Doncello,	FP,	4,	CPDH
+6,	19,	10,	1981,	Antioquia,	Caucasia,	ELN,	6,	EL TIEMPO
+7,	19,	10,	1981,	Boyaca,	Puerto Boyaca,	FARC,	5,	EL TIEMPO
+8,	23,	10,	1981,	Antioquia,	Sonson,	FARC,	8,	EL TIEMPO
+9,	25,	10,	1981,	Boyaca,	Puerto Boyaca,	FP,	4,	CPDH
+10,	5,	12,	1981,	Caqueta,	Solita,	GAONI,	4,	SEMANA
