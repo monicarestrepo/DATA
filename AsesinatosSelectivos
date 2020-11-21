@@ -1,0 +1,11 @@
+ID,	Dia, Mes,	Ano, Depto, Municipio, Implicado, Victimas,	Fuente
+1, 6,	1, 1981, Santander	Barrancabermeja,	GAONI	1	IROM
+2, 7,	1, 1981, Huila,	Algeciras,	 Paramilitares	2	IROM
+3, 10, 1, 1981, Cesar,	Valledupar,	FP,	2,	IROM
+4, 17, 1, 1981, Distrito Capital,	Bogota,	FP,	1,	IROM
+5, 20, 1, 1981, Valle del Cauca,	Cali,	GAONI,	1,	IROM
+6, 20, 1, 1981, Antioquia,	Puerto Berrio,	Paramilitares,	2, IROM
+7, 20, 1, 1981,	Distrito Capital,	Bogota,	FP,	1,	IROM
+8, 27, 1, 1981,	Distrito Capital,	Bogota,	FP,	1, IROM
+9, 31, 1, 1981,	Distrito Capital,	Bogota,	FP,	2, IROM
+10,	6, 2, 1981,	Tolima,	Melgar,	FP,	1,	IROM
